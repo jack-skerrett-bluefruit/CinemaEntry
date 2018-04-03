@@ -95,6 +95,7 @@ namespace CinemaEntry
             }while (exitValue);
         }
         //TRY AND ADD SOME KIND OF CODE THAT WILL ONLY ALLOW YOU TO MAKE SURE THE AGE IS A REALISTIC AGE OF SOMEONE (0-125?)
+        //trying to do git stuff
         private static bool IsUserOldEnough(int filmSelection)
         {
             int userAge=0;
